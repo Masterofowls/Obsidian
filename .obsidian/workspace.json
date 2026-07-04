@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0b6e5282647aad48",
+        "id": "8728a3a93f306d9a",
         "type": "tabs",
         "children": [
           {
-            "id": "d473c2f93cdce741",
+            "id": "d7e3c2c7f5384019",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Something/1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "Obsidian"
             }
           }
         ]
@@ -76,7 +73,7 @@
             }
           },
           {
-            "id": "1308efaf8c0293cd",
+            "id": "8b34d860b0382ded",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -189,11 +186,12 @@
       "fix-math:Current file": false
     }
   },
-  "active": "d473c2f93cdce741",
+  "active": "d7e3c2c7f5384019",
   "lastOpenFiles": [
+    "Something/1.md",
     "Something/Evidance.md",
     "Untitled.base",
-    "Something/1.md",
+    "Tags",
     "React/Components/Badge.md",
     "HTML/SEO/404.md",
     "Django/Forms.md",
@@ -217,9 +215,7 @@
     "React/Components/Quiz.md",
     "React/Components/Download.md",
     "React/Components/Upload.md",
-    "React/Components/Cookie.md",
     "Python/Examples",
-    "Tags",
     "Math/Differential",
     "Math/Linear_Algebra",
     "Math/Graph_Model",
