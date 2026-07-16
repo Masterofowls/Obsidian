@@ -21,6 +21,16 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "125533adfadc0d1f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -101,7 +111,7 @@
         }
       },
       {
-        "id": "4b699bcf6187c846",
+        "id": "be472ca4766aa8e8",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -147,7 +157,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +168,32 @@
       "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": false,
+      "terminal:Open terminal": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "b9f1a906827306f7",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/Hi@20260716_234830.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Custom/Untitled.md",
     "Custom",
     "Tags",
@@ -179,25 +210,6 @@
     "Django/Database.md",
     "Django/Commands.md",
     "Django/Serialization.md",
-    "Django/Authentication.md",
-    "Django/Migrations.md",
-    "Django/Venv.md",
-    "Django/Folder_Structure.md",
-    "Django/Deployment.md",
-    "Django/Import_Export.md",
-    "Django/Forms.md",
-    "Django/Apps.md",
-    "Django/Urls.md",
-    "Django/Admin.md",
-    "Django/Templates.md",
-    "Django/Views.md",
-    "Django/Models.md",
-    "HTML/HTML.md",
-    "Django/Untitled.md",
-    "Typescript/Typescript.md",
-    "Typescript",
-    "React",
-    "Python/Pandas",
-    "Python/NumPy"
+    "Typescript"
   ]
 }
