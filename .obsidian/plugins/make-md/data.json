@@ -38,8 +38,6 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//PowerShell ",
-    "//Math ",
     "/"
   ],
   "expandFolderOnClick": true,
@@ -74,7 +72,7 @@
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "Obsidian ",
+  "systemName": "Obsidian",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,

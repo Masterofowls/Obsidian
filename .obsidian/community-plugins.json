@@ -1,15 +1,9 @@
 [
-  "dataview",
-  "obsidian-icon-folder",
-  "obsidian-linter",
-  "mermaid-tools",
-  "image-converter",
-  "code-styler",
-  "obsidian-tikzjax",
-  "fix-math",
-  "quick-latex",
-  "oz-image-plugin",
-  "obsidian-link-embed",
+  "pseudocode-in-obs",
+  "vscode-editor",
   "make-md",
-  "code-emitter"
+  "code-styler",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
+  "share-note"
 ]
