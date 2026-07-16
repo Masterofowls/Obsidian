@@ -1,0 +1,4 @@
+# Grimoire-managed Grok Build configuration
+
+[ui]
+permission_mode = "ask"

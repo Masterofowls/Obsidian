@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8728a3a93f306d9a",
+        "id": "c1893560bd18e441",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e3c2c7f5384019",
+            "id": "91486f285fc26fca",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "/"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Obsidian"
+              "title": "New tab"
             }
           }
         ]
@@ -73,7 +71,7 @@
             }
           },
           {
-            "id": "8b34d860b0382ded",
+            "id": "68cfc119a66015d8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -161,20 +159,31 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
+            }
+          },
+          {
+            "id": "90aa12c3bc5bcfd3",
+            "type": "leaf",
+            "state": {
+              "type": "grimoire-view",
+              "state": {},
+              "icon": "grimoire",
+              "title": "Grimoire"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vscode-editor:Create Code File": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
@@ -182,16 +191,16 @@
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "fix-math:Current file": false
+      "grimoire:Open Grimoire": false,
+      "lean-terminal:Open terminal": false
     }
   },
-  "active": "d7e3c2c7f5384019",
+  "active": "91486f285fc26fca",
   "lastOpenFiles": [
+    "Tags",
     "Something/1.md",
     "Something/Evidance.md",
     "Untitled.base",
-    "Tags",
     "React/Components/Badge.md",
     "HTML/SEO/404.md",
     "Django/Forms.md",

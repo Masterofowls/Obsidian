@@ -1,0 +1,30 @@
+{
+  "$schema": "https://kimicode.ai/config.json",
+  "agent": {
+    "build": {
+      "prompt": "{file:E:\\Obsidian\\.grimoire\\kimicode\\system.md}"
+    },
+    "auto": {
+      "mode": "primary",
+      "permission": {
+        "plan_enter": "allow",
+        "question": "allow"
+      },
+      "prompt": "{file:E:\\Obsidian\\.grimoire\\kimicode\\system.md}"
+    },
+    "default": {
+      "mode": "primary",
+      "permission": {
+        "plan_enter": "allow",
+        "question": "allow",
+        "bash": "ask",
+        "edit": "ask",
+        "write": "ask"
+      },
+      "prompt": "{file:E:\\Obsidian\\.grimoire\\kimicode\\system.md}"
+    },
+    "plan": {
+      "prompt": "{file:E:\\Obsidian\\.grimoire\\kimicode\\system.md}"
+    }
+  }
+}

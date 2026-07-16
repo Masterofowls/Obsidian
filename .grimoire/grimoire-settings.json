@@ -1,0 +1,200 @@
+{
+  "userName": "",
+  "permissionMode": "normal",
+  "model": "opencode:opencode/big-pickle",
+  "thinkingBudget": "off",
+  "effortLevel": "high",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "persistentExternalContextPaths": [],
+  "contextEngine": {
+    "vaultSearchEnabled": true,
+    "vaultSearchMaxResults": 8,
+    "vaultSearchMaxSnippetChars": 700,
+    "relevantNotesEnabled": true,
+    "relevantNotesMaxResults": 6,
+    "projectWorkspaces": [],
+    "activeProjectWorkspaceId": ""
+  },
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [],
+  "customContextLimits": {},
+  "customModelAliases": {},
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "requireCommandOrControlEnterToSend": false,
+  "advancedSectionsOpen": {},
+  "usageIndicatorsEnabled": true,
+  "debugLoggingEnabled": false,
+  "locale": "en",
+  "providerConfigs": {
+    "antigravity": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "customModels": "",
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "visibleModels": []
+    },
+    "claude": {
+      "enabled": false,
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "loadUserSettings": true,
+      "enableChrome": false,
+      "enableBangBash": false,
+      "enableOpus1M": false,
+      "enableSonnet1M": false,
+      "customModels": "",
+      "lastModel": "haiku",
+      "environmentVariables": "",
+      "environmentHash": "ANTHROPIC_BASE_URL=http://127.0.0.1:1337|ANTHROPIC_DEFAULT_HAIKU_MODEL=AtomicChat/qwen35-4b-IQ4_XS|ANTHROPIC_DEFAULT_OPUS_MODEL=AtomicChat/qwen35-4b-IQ4_XS|ANTHROPIC_DEFAULT_SONNET_MODEL=AtomicChat/qwen35-4b-IQ4_XS|ANTHROPIC_MODEL=AtomicChat/qwen35-4b-IQ4_XS|project=model=AtomicChat/qwen35-4b-IQ4_XS|ANTHROPIC_AUTH_TOKEN=atomic|ANTHROPIC_BASE_URL=http://127.0.0.1:1337|ANTHROPIC_DEFAULT_HAIKU_MODEL=AtomicChat/qwen35-4b-IQ4_XS|ANTHROPIC_DEFAULT_OPUS_MODEL=AtomicChat/qwen35-4b-IQ4_XS|ANTHROPIC_DEFAULT_SONNET_MODEL=AtomicChat/qwen35-4b-IQ4_XS|ANTHROPIC_MODEL=AtomicChat/qwen35-4b-IQ4_XS",
+      "respectProjectSettings": true,
+      "discoveredModels": []
+    },
+    "codex": {
+      "enabled": false,
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "customModels": "",
+      "discoveredModels": [
+        {
+          "description": "Frontier model for complex coding, research, and real-world work.",
+          "id": "gpt-5.5",
+          "isDefault": true,
+          "label": "GPT-5.5"
+        },
+        {
+          "description": "Strong model for everyday coding.",
+          "id": "gpt-5.4",
+          "label": "gpt-5.4"
+        },
+        {
+          "description": "Small, fast, and cost-efficient model for simpler coding tasks.",
+          "id": "gpt-5.4-mini",
+          "label": "GPT-5.4-Mini"
+        },
+        {
+          "description": "Coding-optimized model.",
+          "id": "gpt-5.3-codex",
+          "label": "gpt-5.3-codex"
+        },
+        {
+          "description": "Optimized for professional work and long-running agents.",
+          "id": "gpt-5.2",
+          "label": "gpt-5.2"
+        }
+      ],
+      "reasoningSummary": "detailed",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "installationMethodsByHost": {
+        "device:d68621d9-ae9c-4238-943d-daec566a2e9a": "native-windows"
+      },
+      "wslDistroOverridesByHost": {}
+    },
+    "gemini": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "selectedMode": "",
+      "visibleModels": []
+    },
+    "grok": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "",
+      "thinkingOptionsByModel": {},
+      "visibleModels": []
+    },
+    "kimicode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "KIMICODE_ENABLE_EXA=1",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "",
+      "thinkingOptionsByModel": {},
+      "visibleModels": []
+    },
+    "mimocode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "MIMOCODE_ENABLE_EXA=1",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "",
+      "thinkingOptionsByModel": {},
+      "visibleModels": []
+    },
+    "opencode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": true,
+      "environmentHash": "",
+      "environmentVariables": "OPENCODE_ENABLE_EXA=1",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "grimoire-safe",
+      "thinkingOptionsByModel": {},
+      "visibleModels": [
+        "atomic/ollama/deepseek-coder-v2-16b",
+        "opencode/big-pickle",
+        "opencode/deepseek-v4-flash-free",
+        "opencode/hy3-free",
+        "opencode/mimo-v2.5-free",
+        "opencode/nemotron-3-ultra-free",
+        "opencode/north-mini-code-free"
+      ]
+    }
+  },
+  "settingsProvider": "opencode",
+  "savedProviderModel": {
+    "claude": "AtomicChat/qwen35-4b-IQ4_XS",
+    "codex": "gpt-5.5",
+    "opencode": "opencode:opencode/big-pickle"
+  },
+  "savedProviderEffort": {
+    "claude": "high",
+    "codex": "high",
+    "opencode": "high"
+  },
+  "savedProviderServiceTier": {
+    "codex": "default"
+  },
+  "savedProviderThinkingBudget": {},
+  "savedProviderPermissionMode": {
+    "claude": "normal",
+    "codex": "normal",
+    "opencode": "normal"
+  },
+  "lastCustomModel": "AtomicChat/qwen35-4b-IQ4_XS",
+  "lastSeenChangelogVersion": "1.0.33",
+  "maxTabs": 5,
+  "tabBarPosition": "header",
+  "enableAutoScroll": true,
+  "deferMathRenderingDuringStreaming": true,
+  "chatViewPlacement": "right-sidebar",
+  "hiddenProviderCommands": {}
+}

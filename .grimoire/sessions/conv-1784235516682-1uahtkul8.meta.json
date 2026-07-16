@@ -1,0 +1,75 @@
+{
+  "id": "conv-1784235516682-1uahtkul8",
+  "providerId": "opencode",
+  "title": "Greet User",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784235516683,
+  "updatedAt": 1784235559732,
+  "lastResponseAt": 1784235559732,
+  "sessionId": "ses_0934681cfffebs9gNM7R6BDDuq",
+  "providerState": {
+    "databasePath": "C:\\Users\\mrdan\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "messages": [
+    {
+      "id": "msg-1784235516679-mwkiy24",
+      "role": "user",
+      "content": "",
+      "displayContent": "hi",
+      "timestamp": 1784235516679
+    },
+    {
+      "id": "msg-1784235516702-cmydl9c",
+      "role": "assistant",
+      "content": "Hey! How can I help you today? 😊\n\nWhether you need help organizing notes, managing your vault, or anything else — just let me know what you're working on.",
+      "timestamp": 1784235516702,
+      "toolCalls": [],
+      "contentBlocks": [
+        {
+          "type": "thinking",
+          "content": "The user just said \"hi\". This is a simple greeting. According to my instructions, I should respond directly without ceremony for simple requests that don't require extended work.\n\nI should:\n1. Keep it brief and friendly\n2. Not over-explain my capabilities unless asked\n3. Be helpful and ready to assist\n\nLet me craft a simple, friendly response.",
+          "durationSeconds": 1
+        },
+        {
+          "type": "text",
+          "content": "Hey! How can I help you today? 😊\n\nWhether you need help organizing notes, managing your vault, or anything else — just let me know what you're working on."
+        }
+      ],
+      "responseMetadata": {
+        "providerId": "opencode",
+        "providerLabel": "OpenCode",
+        "model": "opencode:opencode/big-pickle",
+        "modelLabel": "opencode/big-pickle",
+        "effort": "high",
+        "effortLabel": "High"
+      },
+      "assistantMessageId": "msg_f6cb97e7d001gY245H3OoxT9En",
+      "durationSeconds": 43,
+      "durationFlavorWord": "Marinated"
+    }
+  ],
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 122800,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 122800,
+    "model": "opencode:opencode/big-pickle",
+    "percentage": 61
+  },
+  "assistantResponseMetadata": [
+    {
+      "assistantMessageIndex": 0,
+      "assistantMessageId": "msg_f6cb97e7d001gY245H3OoxT9En",
+      "metadata": {
+        "providerId": "opencode",
+        "providerLabel": "OpenCode",
+        "model": "opencode:opencode/big-pickle",
+        "modelLabel": "opencode/big-pickle",
+        "effort": "high",
+        "effortLabel": "High"
+      }
+    }
+  ]
+}
