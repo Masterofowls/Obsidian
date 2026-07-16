@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "eea5043c091fe270",
+    "type": "split",
+    "children": [
+      {
+        "id": "8728a3a93f306d9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7e3c2c7f5384019",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3af1b0d6989d9596",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5757506388375c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59476d50990b262",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "25f34a43ae0406cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff80ef4a98d500e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "8b34d860b0382ded",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c359fa61f7f7d0f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1760ebb8588e614c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b187726fc3cc216e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SQL/SQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SQL"
+            }
+          },
+          {
+            "id": "832fc1246a4a6f9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c113697fdce3c0a0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "43386cfaaceeabc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SQL/SQL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SQL"
+            }
+          },
+          {
+            "id": "ddbc3d019afa934c",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "fix-math:Current file": false
+    }
+  },
+  "active": "d7e3c2c7f5384019",
+  "lastOpenFiles": [
+    "Something/1.md",
+    "Something/Evidance.md",
+    "Untitled.base",
+    "Tags",
+    "React/Components/Badge.md",
+    "HTML/SEO/404.md",
+    "Django/Forms.md",
+    "Typescript/Import_Export.md",
+    "Typescript/Index.md",
+    "Typescript/Interface.md",
+    "Typescript/Typescript.md",
+    "Django/Views.md",
+    "Django/Models.md",
+    "Django/Models_All.md",
+    "React/Components/Feed.md",
+    "React/Components/Chat_Room.md",
+    "React/Components/Video_Call.md",
+    "React/Components/Note.md",
+    "React/Components/Documentation.md",
+    "React/Components/Pricing.md",
+    "React/Components/Document.md",
+    "React/Components/Preview.md",
+    "React/Components/Snippet.md",
+    "React/Components/Parallax.md",
+    "React/Components/Quiz.md",
+    "React/Components/Download.md",
+    "React/Components/Upload.md",
+    "Python/Examples",
+    "Math/Differential",
+    "Math/Linear_Algebra",
+    "Math/Graph_Model",
+    "Math/Statistics",
+    "Math/Discrete_Math",
+    "Git_Github_Gitlab/Github_Actions",
+    "Git_Github_Gitlab"
+  ]
+}
