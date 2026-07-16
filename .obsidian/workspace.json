@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c1893560bd18e441",
+        "id": "aad98beed033d12b",
         "type": "tabs",
         "children": [
           {
-            "id": "91486f285fc26fca",
+            "id": "cc84d91ab9589add",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "mk-space",
+              "state": {
+                "path": "Custom"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Custom"
             }
           }
         ]
@@ -195,8 +197,22 @@
       "lean-terminal:Open terminal": false
     }
   },
-  "active": "91486f285fc26fca",
+  "active": "68cfc119a66015d8",
   "lastOpenFiles": [
+    "CSS/CSS.md",
+    "CSS",
+    "Html/Html.md",
+    "Html",
+    "SQL/SQL.md",
+    "SQL",
+    "Typescript/Typescript.md",
+    "Typescript",
+    "Javascript/Javascript.md",
+    "Javascript",
+    "Python/Python.md",
+    "Python",
+    "Untitled.md",
+    "Custom/Untitled.md",
     "Tags",
     "Something/1.md",
     "Something/Evidance.md",
@@ -207,7 +223,6 @@
     "Typescript/Import_Export.md",
     "Typescript/Index.md",
     "Typescript/Interface.md",
-    "Typescript/Typescript.md",
     "Django/Views.md",
     "Django/Models.md",
     "Django/Models_All.md",
@@ -218,19 +233,7 @@
     "React/Components/Documentation.md",
     "React/Components/Pricing.md",
     "React/Components/Document.md",
-    "React/Components/Preview.md",
-    "React/Components/Snippet.md",
-    "React/Components/Parallax.md",
-    "React/Components/Quiz.md",
-    "React/Components/Download.md",
-    "React/Components/Upload.md",
     "Python/Examples",
-    "Math/Differential",
-    "Math/Linear_Algebra",
-    "Math/Graph_Model",
-    "Math/Statistics",
-    "Math/Discrete_Math",
-    "Git_Github_Gitlab/Github_Actions",
-    "Git_Github_Gitlab"
+    "Math/Differential"
   ]
 }

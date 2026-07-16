@@ -26,6 +26,13 @@
       "name": "Terminal 1",
       "color": "",
       "cwd": "E:\\Obsidian",
+      "bufferSerial": "PS>\u001b[?1004h",
+      "closedAt": 1784236029697
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "E:\\Obsidian",
       "bufferSerial": "\u001b[33;1mWARNING: The prediction 'ListView' is temporarily disabled because the current window size of the console is too small. To use the 'ListView', please make sure the 'WindowWidth' is not less than '50' and the 'WindowHeight' is not less than '5'.\r\n\u001b[0mPS>\u001b[?1004h",
       "closedAt": 1784235921441
     },
