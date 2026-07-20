@@ -1,0 +1,11 @@
+1. Models
+2. Settings
+3. Views
+4. Urls
+5. Templates 
+6. Serializers
+7. Forms
+8. Admin
+9. oAuth
+10. Deployment 
+11. Docker 

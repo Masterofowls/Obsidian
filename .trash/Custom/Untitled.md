@@ -46,6 +46,7 @@ case
 async
 await
 fetch
+return
 
 ```
 
